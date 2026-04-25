@@ -176,20 +176,6 @@ The training script uses `inspect.signature()` to dynamically detect compatible 
 
 ---
 
-## Citation
-
-```bibtex
-@article{paul2026atlas,
-  title={A Novel Adaptive Three-Level Alignment for Bias Recognition
-         and Rectification in Large Language Models},
-  author={Paul, Priangshu},
-  journal={arXiv preprint},
-  year={2026}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
